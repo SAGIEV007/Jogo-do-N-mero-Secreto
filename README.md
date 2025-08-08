@@ -13,7 +13,7 @@
 🚀 Jogo do Número Secreto
 Bem-vindo ao Jogo do Número Secreto! Este é um projeto interativo e divertido, desenvolvido com HTML, CSS e JavaScript puro, que desafia o jogador a adivinhar um número secreto sorteado aleatoriamente.
 
-O projeto foi criado não apenas como um passatempo, mas também como uma demonstração prática de manipulação do DOM, lógica de programação e integração de APIs de terceiros para uma experiência de usuário mais rica e acessível.
+O projeto foi criado não apenas como um passatempo, mas também como uma demonstração prática de manipulação do DOM, lógica de programação e integração de APIs de terceiros para uma experiência de usuário mais rica e acessível que inclúi narrador em português.
 
 ## ✨ Funcionalidades Principais
 
