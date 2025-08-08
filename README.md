@@ -67,7 +67,7 @@ Google Fonts: Para a tipografia personalizada (Chakra Petch e Inter).
 
 Como o projeto utiliza apenas JavaScript nativo do navegador, não há necessidade de instalação de dependências, apenas entrar no link e jogar:
 
-
+https://numero-secreto-nine-smoky.vercel.app/
 
 
 ## 🎓 Contexto do Projeto
